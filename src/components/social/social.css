@@ -1,0 +1,9 @@
+.social{
+    position: fixed;
+    right: 0;
+    top: 40%;
+    z-index: 10;
+}
+.social ul li {
+    padding: 5px 0;
+}

@@ -1,0 +1,47 @@
+.up{
+    position: fixed;
+    left: 20px;
+    top: 620px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: #2386C8;
+    padding: 10px 5px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: #eee;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition:1s ;
+    -webkit-transition:1s ;
+    -moz-transition:1s ;
+    -ms-transition:1s ;
+    -o-transition:1s ;
+      animation-name: ChangeColor;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+.up:hover{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+/* The animation code */
+@keyframes ChangeColor {
+ 0%   {background-color:red;left: 0;}
+  25%  {background-color:yellow;left: 20px;}
+  50%  {background-color:blue;left: 0;}
+  75%  {background-color:green;left: 20;}
+  100% {background-color:#2386C8;left: 0;}
+}

@@ -1,0 +1,21 @@
+.lis ul li{
+    padding: 5px 0;
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .lis {
+    flex-direction: column;
+  }
+  .lis ul li{
+    padding: 5px 0;
+    width: 100%;
+}
+}
