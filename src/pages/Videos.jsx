@@ -1,9 +1,7 @@
-import React from 'react'
+import Soon from "../components/soon/Soon";
 
 const Videos = () => {
-  return (
-    <div>Videos</div>
-  )
-}
+  return <Soon />;
+};
 
 export default Videos;

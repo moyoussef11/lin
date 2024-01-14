@@ -1,9 +1,7 @@
-import React from 'react'
+import Soon from "../components/soon/Soon";
 
 const OurBusiness = () => {
-  return (
-    <div>OurBusiness</div>
-  )
-}
+  return <Soon />;
+};
 
 export default OurBusiness;

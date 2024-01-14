@@ -1,9 +1,11 @@
-import React from 'react';
+import Soon from "../components/soon/Soon";
 
 const Articles = () => {
   return (
-    <div>Articles</div>
-  )
-}
+    <>
+      <Soon />
+    </>
+  );
+};
 
 export default Articles;
