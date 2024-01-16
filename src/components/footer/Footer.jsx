@@ -36,27 +36,27 @@ const Footer = () => {
             <hr />
             <div>
               <h3>{t("Administration")}</h3>
-              <span>+966551322980</span>
+              <span>+201146646254</span>
             </div>
           </div>
           <div>
             <h5>{t("Contact email")}</h5>
             <ul>
-              <li>info@leeneldiaa.com</li>
-              <li>sales@leeneldiaa.com</li>
+              <li>mohamedyoussef@gmail</li>
+              <li>sales@lldiaa.com</li>
               <li>{t("Maintenance and installations")}</li>
-              <li>+966534437528</li>
+              <li>+201146646254</li>
             </ul>
           </div>
           <div>
             <h5>{t("Connect with us")}</h5>
             <ul>
               <li>{t("Surveillance cameras")}</li>
-              <li>+966546802834</li>
+              <li>+201146646254</li>
               <li>{t("Glass and texture")}</li>
-              <li>+966551060519</li>
+              <li>+201146646254</li>
               <li>{t("Design, advertising and advertising")}</li>
-              <li>+966508159771</li>
+              <li>+201146646254</li>
             </ul>
           </div>
         </div>
